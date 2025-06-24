@@ -7,7 +7,7 @@
 ### Sistema de Agendamento de Consultas
 **Tecnologias:** Java, Spring Boot, JSF, MySQL  
 Sistema completo com cadastro de pacientes, médicos e consultas.  
-[Repositório no GitHub](link-projeto)
+[Repositório no GitHub](https://github.com/Rafaellaquadrado/Agendeja.git)
 
 ### Análise de Dados de Vendas de Flores
 **Tecnologias:** Python, Pandas, Matplotlib  
