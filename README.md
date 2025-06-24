@@ -9,15 +9,12 @@
 Sistema completo com cadastro de pacientes, médicos e consultas.  
 [Repositório no GitHub](https://github.com/Rafaellaquadrado/Agendeja.git)
 
-### Análise de Dados de Vendas de Flores
-**Tecnologias:** Python, Pandas, Matplotlib  
-Análise exploratória e visualização de dados de vendas sazonais.  
-[Repositório no GitHub](link-projeto)
+###  Projeto: API REST de Controle de Tarefas
+**Tecnologias:** 
+Java 17 ,Spring Boot 3.3.0,Spring Data JPA, MySQL, Jakarta Bean Validation, Lombok, Maven, Spring Boot DevTools — 
+API REST simples para gerenciar tarefas. 
+[Repositório no GitHub](https://github.com/Rafaellaquadrado/Todolist.git)
 
-### API REST de Gerenciamento de Livros
-**Tecnologias:** Python, FastAPI, PostgreSQL, Docker  
-CRUD completo com autenticação JWT.  
-[Repositório no GitHub](link-projeto)
 
 ## 📫 Contato
 
